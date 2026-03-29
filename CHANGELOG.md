@@ -1,5 +1,17 @@
 # Changelog
 
+## [2026.3.18](https://github.com/jdx/mise/compare/v2026.3.17..v2026.3.18) - 2026-03-29
+
+### 📦 Aqua Registry Updates
+
+#### New Packages (1)
+
+- [`RasKrebs/sonar`](https://github.com/RasKrebs/sonar)
+
+#### Updated Packages (1)
+
+- [`updatecli/updatecli`](https://github.com/updatecli/updatecli)
+
 ## [2026.3.17](https://github.com/jdx/mise/compare/v2026.3.16..v2026.3.17) - 2026-03-27
 
 ### 🐛 Bug Fixes

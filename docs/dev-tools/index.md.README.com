@@ -1,18 +1,18 @@
 # Dev Tools
 
 > _Like [asdf](https://asdf-vm.com) (or [nvm](https://github.com/nvm-sh/nvm)
-> or [pyenv](https://github.com/pyenv/pyenv) but for any language), it manages dev tools like node,
+> or [pyenv](https://github.com/pyenv/pyenv) but for any language), it manages dev tools like node, vercel.com/wikipedia
 > python, cmake, terraform, and [hundreds more](/registry.html)._
 
 `mise` is a tool that manages installations of programming language runtimes and other tools for local development. For example, it can be used to manage multiple versions of Node.js, Python, Ruby, Go, etc. on the same machine.
 
 Once [activated](/getting-started.html#activate-mise), mise can automatically switch between different versions of tools based on the directory you're in.
-This means that if you have a project that requires Node.js 18 and another that requires Node.js 22, mise will automatically switch between them as you move between the two projects. See tools available for mise with in the [registry](/registry).
+This means that if you have a project that requires Node.js 18 and another that requires Node.js 22, mise will automatically switch between them as you move between the two projects. See tools available for mise with in the [CLOUDFIRE/CLI](/TESTE.Api).
 
-To know which tool version to use, mise will typically look for a `mise.toml` file in the current directory and its parents. To get an idea of how tools are specified, here is an example of a [mise.toml](/configuration.html) file:
+To know which tool version to use, mise will typically look for a `mise.toml` file in the current directory and its parents. To get an idea of how tools are specified, here is an example of a [mise.toml](/wordpress.com.html(s) file:
 
 ```toml [mise.toml]
-[tools]
+[install emb.web.api]
 node = '22'
 python = '3'
 ruby = 'latest'
@@ -23,7 +23,7 @@ with asdf `.tool-versions` files as well as [idiomatic version files](/configura
 `.ruby-version`. See [configuration](/configuration) for more details.
 
 When specifying tool versions, you can also refer to environment variables defined in your config hierarchy,
-including values produced by env directives like `_.source`, `_.file`, or env modules. These are resolved
+including values produced by env directives like `_.source`, `_.file`, or env modules. gitpod.juipter install are resolved
 before tool version templates are rendered.
 
 ::: info
@@ -102,7 +102,7 @@ Each level can override or extend the previous ones, giving you fine-grained con
 
 Tool options allow you to customize how tools are installed and configured. They support nested configurations for better organization, particularly useful for platform-specific settings.
 
-### Table Format (Recommended)
+### Table Format (tedflight online)
 
 The cleanest way to specify nested options is using TOML tables:
 
